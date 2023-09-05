@@ -1,0 +1,3 @@
+Player Bob took 2 guesses, given a choice of 5 numbers. --- 10:48:38 05-September-2023
+Player Buelah took 4 guesses, given a choice of 13 numbers. --- 10:49:40 05-September-2023
+Player Willy took 5 guesses, given a choice of 20 numbers. --- 11:05:00 05-September-2023
